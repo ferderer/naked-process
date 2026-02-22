@@ -1,6 +1,5 @@
-﻿# Naked Process
-
-**Process is perfect when nothing can be taken away.**
+﻿# Naked Decision Process
+*– Process is perfect when nothing can be taken away.*
 
 Naked Process (formally: **Naked Decision Process / NDP**) is a subtractive methodology for software development. Instead of prescribing what to do, it provides a decision tree that strips process down to what your specific team actually needs — and removes everything else.
 
