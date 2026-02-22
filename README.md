@@ -53,7 +53,7 @@ The tree doesn't output "use Scrum" or "use Kanban." It outputs a minimal set of
 | Document | Description |
 |---|---|
 | [The Manifesto](docs/manifesto.md) | Why Naked Process exists — the philosophical foundation |
-| [Points Don't Matter](articles/points-dont-matter.md) | The research-backed argument that developer quality beats process |
+| [Points Don't Matter](articles/Points%20Don't%20Matter%20–%20Why%20Developer%20Quality%20Beats%20Process%20Every%20Single%20Time.md) | The research-backed argument that developer quality beats process |
 | [The Decision Tree](decision-tree/README.md) | The practical tool — how to find your minimal viable process |
 | [Methodology](docs/methodology.md) | How the decision tree was built: dimensions, decomposition, and validation |
 
